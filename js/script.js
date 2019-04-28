@@ -5,7 +5,7 @@
 
   window.addEventListener('load', () => {
     navigator.serviceWorker
-      .register('sw.js')
+      .register('/pwa-training/js/sw.js')
       .then(sw => {
         console.log(`ServiceWorker scope: ${sw.scope}`)
       })
