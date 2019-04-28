@@ -1,6 +1,6 @@
 {
-  "name": "Hello PWA World !!",
-  "short_name": "PWA Training",
+  "name": "My Shortcuts",
+  "short_name": "My Shortcuts",
   "icons": [
     {
       "src": "/images/icon.png",
